@@ -1,2 +1,3 @@
-# Grunt-file
-My first file in github
+# List of Projects
+- Animal trading cards
+- Portfolio site
