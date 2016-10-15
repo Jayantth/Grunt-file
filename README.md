@@ -8,5 +8,5 @@
 - Arcade game clone
 
 ## Review
-> Every project is reviewed by udacity prof essional
+> Every project is reviewed by udacity professional and if any changes has to done, download the project and make changes.
   
