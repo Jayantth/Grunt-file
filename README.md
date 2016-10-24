@@ -1,5 +1,5 @@
 # FRONT-END NANO DEGREE PROJECTS
-> This repo consists of zip files of all my projects in FEND.
+> This repositary consists of zip files of all my projects in Front-End Nanodegree Program. This degree actually takes 3.5 - 5 months of time to complete this whole project. The process is On-going and the addition of projects will be made in this repositary as soon as I complete the project.
 
 ## Project List
 - Animal trading cards
