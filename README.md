@@ -6,6 +6,7 @@
 - Portfolio site
 - Online Resume
 - Arcade game clone
+- Website Optimization
 
 ## Review
 > Every project is reviewed by udacity professional and if any changes has to made, download the project and make commits.
