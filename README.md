@@ -9,7 +9,7 @@
 - Website Optimization
 
 ## Review
-> Every project is reviewed by udacity professional and if any changes has to made, dplease let me know.Thanks :)
+> Every project is reviewed by udacity professional and if any changes has to made, please let me know.Thanks :)
 
 ## AUTHOR
 ### JAYANTTH GANESH M S
